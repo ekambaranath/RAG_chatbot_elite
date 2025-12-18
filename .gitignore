@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# FAISS index and pickle files
+faiss_index.idx
+faiss_paragraphs.pkl
+
+# Model downloads
+*.bin
+*.pt
+
